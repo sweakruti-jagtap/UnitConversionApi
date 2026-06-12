@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="UnitConversionApi.Tests/UnitConversionApi.Tests.csproj" Id="119d0700-1d0b-47c2-ba24-4f791295bd7d" />
+  <Project Path="UnitConversionApi/UnitConversionApi.csproj" />
+</Solution>
